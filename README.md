@@ -38,10 +38,10 @@ my programming fundamentals through C++, problem-solving, and regular practice o
 
 <br>
 
-**B.Tech in Computer Science &amp; Engineering** · 2025–Present  
+**B.Tech in Computer Science &amp; Engineering** · 2025–Present<br>
 *I.K. Gujral Punjab Technical University (IKGPTU), Jalandhar*
 
-**Senior Secondary (10+2)** · 2024  
+**Senior Secondary (10+2)** · 2024<br>
 *Narayana e-Techno School, Sector 37C*
 
 </details>
