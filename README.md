@@ -1,120 +1,76 @@
-<div align="center">
+# Lav Lodwal
 
-# Hi, I'm Lav Lodwal 👋
+### Computer Science student learning by building, testing, and asking questions
 
-### CSE Student | Developer in Progress | Problem Solver
+Hello! I am a B.Tech Computer Science and Engineering student at I.K. Gujral Punjab
+Technical University. I am interested in understanding what happens behind the scenes
+when an application runs, a game is built, or an operating system manages a computer.
 
-<p>
-  Curious about how apps, games, operating systems, and AI work behind the scenes.
-</p>
-
-<a href="mailto:lav.lodwal210905@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/lav-lodwal-956958439">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<br>
-
-📍 Jalandhar, Punjab / Gurugram, Haryana &nbsp; | &nbsp; 📞 9999883934
-
-</div>
-
----
-
-## ⚡ Quick Introduction
-
-<table>
-  <tr>
-    <td>🎓</td>
-    <td><strong>Studying</strong></td>
-    <td>B.Tech Computer Science &amp; Engineering at IKGPTU</td>
-  </tr>
-  <tr>
-    <td>💻</td>
-    <td><strong>Building with</strong></td>
-    <td>C, C++, HTML, CSS, Git, and GitHub</td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td><strong>Looking for</strong></td>
-    <td>Software development internships and entry-level opportunities</td>
-  </tr>
-  <tr>
-    <td>🧠</td>
-    <td><strong>Practicing</strong></td>
-    <td>Data structures and algorithms on LeetCode</td>
-  </tr>
-</table>
-
-## 🛠️ Skills
+I am currently looking for an internship or entry-level opportunity in software
+development. I may be early in my journey, but I bring patience, consistency, and a
+genuine willingness to learn.
 
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <a href="mailto:lav.lodwal210905@gmail.com">Email</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/lav-lodwal-956958439">LinkedIn</a>
+  &nbsp; · &nbsp;
+  Jalandhar, Punjab / Gurugram, Haryana
 </p>
 
+## What I work with
+
+`C` · `C++` · `HTML` · `CSS` · `Git` · `GitHub`
+
+I can build and style basic front-end pages with HTML and CSS, and I am strengthening
+my programming fundamentals through C++, problem-solving, and regular practice on
+<a href="https://leetcode.com/">LeetCode</a>.
+
+## A little more about me
+
+- I enjoy taking a difficult technical problem apart and working on it until it makes sense.
+- I have tested pre-release games, reported bugs with reproduction steps, and written feedback for developers.
+- As a mess committee member, I reviewed monthly expense records and helped address residents' concerns.
+- I learn independently by exploring new applications, tools, games, and computer systems.
+
 <details>
-  <summary><strong>👀 More about me</strong></summary>
+  <summary><strong>Education</strong></summary>
 
 <br>
 
-- I enjoy solving difficult technical and logical problems patiently.
-- I have experience testing games, reporting bugs, and writing structured feedback.
-- I served for one year as a mess committee member, reviewing expenses and resident concerns.
-- I learn independently by exploring new tools, applications, games, and computer systems.
-
-</details>
-
-<details>
-  <summary><strong>🌱 Current interests</strong></summary>
-
-<br>
-
-🎮 Game design and development &nbsp; · &nbsp;
-🌐 App and web development &nbsp; · &nbsp;
-🤖 Artificial intelligence
-
-</details>
-
-<details>
-  <summary><strong>🎓 Education</strong></summary>
-
-<br>
-
-**B.Tech in Computer Science & Engineering** · 2025–Present<br>
+**B.Tech in Computer Science &amp; Engineering** · 2025–Present  
 *I.K. Gujral Punjab Technical University (IKGPTU), Jalandhar*
 
-**Senior Secondary (10+2)** · 2024<br>
+**Senior Secondary (10+2)** · 2024  
 *Narayana e-Techno School, Sector 37C*
 
 </details>
 
-## 🤝 Let's Connect
+<details>
+  <summary><strong>What I am curious about</strong></summary>
 
-<div align="center">
+<br>
 
-Open to learning, collaboration, internships, and software development opportunities.
+Game design and development, web and application development, operating systems,
+emerging technology, and how artificial intelligence works under the hood. In the
+long term, I would like to build a chatbot or another practical AI-powered tool.
 
-<br><br>
+</details>
 
-<a href="mailto:lav.lodwal210905@gmail.com">📧 Email</a>
+## Strengths I bring
+
+Patience and persistence · Attention to detail · Curiosity-driven learning ·
+Clear written communication · Team collaboration
+
+## Contact
+
+If you would like to connect about learning, collaboration, internships, or software
+development opportunities, feel free to reach out.
+
+<a href="mailto:lav.lodwal210905@gmail.com">lav.lodwal210905@gmail.com</a>
 &nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/lav-lodwal-956958439">💼 LinkedIn</a>
+<a href="https://www.linkedin.com/in/lav-lodwal-956958439">linkedin.com/in/lav-lodwal-956958439</a>
 
 <br><br>
 
 <i>References available upon request.</i>
-
-</div>
-
----
-
-<div align="center">
-  <i>Thanks for visiting my profile! ✨</i>
-</div>
